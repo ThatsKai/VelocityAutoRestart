@@ -1,9 +1,0 @@
-auto-restart:
-  hour: 12
-  minutes: 50
-  seconds: 1
-  script: "start.sh"
-  commands:
-    - "end"
-
-configuration-version: 2
